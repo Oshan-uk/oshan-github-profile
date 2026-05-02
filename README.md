@@ -1,1 +1,3 @@
-# oshan-github-profile
+# Oshan Udeesha GitHub
+Welcome to my GitHub profile.
+I am a Full Stack Developer...
